@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nickreilly.github.io/al-folio/sitemap.xml
+Sitemap: https://nickreilly.github.io/sitemap.xml
