@@ -32,7 +32,9 @@
       "startDate": "2019-12-01",
       "endDate": "present",
       "summary": "Research on infrared detectors for space astrophysics, including development of analysis pipelines, equipment installation, and maintenance.",
-      "highlights": ["Developed analysis pipeline for NEO Surveyor calibration.", "Installed and maintained advanced detector systems in cryogenic conditions."]
+      "highlights": [
+        "Developed analysis pipeline for NEO Surveyor calibration.",
+        "Installed and maintained advanced detector systems in cryogenic conditions."]
     },
     {
       "company": "University of Rochester",
