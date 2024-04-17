@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>426 Bausch and Lomb Hall</p>
     <p>University of Rochester</p>
-    <p>Rochester, NY, 14620</p>
+    <p>Rochester,</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
