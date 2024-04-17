@@ -40,7 +40,10 @@
       "startDate": "2017-01-01",
       "endDate": "2019-12-01",
       "summary": "Focused on biophysical research related to cell motility and viral infection impacts on cell dynamics.",
-      "highlights": ["Developed specific assays for CD4+ T Cells.", "Built custom image analysis algorithms."]
+      "highlights": [
+        "Developed specific assays for CD4+ T Cells.",
+        "Built custom image analysis algorithms.",
+      ]
     },
     {
       "company": "Newell Rubbermaid",
