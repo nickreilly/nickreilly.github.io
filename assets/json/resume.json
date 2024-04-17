@@ -32,10 +32,7 @@
       "startDate": "2019-12-01",
       "endDate": "present",
       "summary": "Research on infrared detectors for space astrophysics, including development of analysis pipelines, equipment installation, and maintenance.",
-      "highlights": [
-        "Developed analysis pipeline for NEO Surveyor calibration.",
-        "Installed and maintained advanced detector systems in cryogenic conditions."
-      ]
+      "highlights": ["Developed analysis pipeline for NEO Surveyor calibration.", "Installed and maintained advanced detector systems in cryogenic conditions."]
     },
     {
       "company": "University of Rochester",
@@ -43,10 +40,7 @@
       "startDate": "2017-01-01",
       "endDate": "2019-12-01",
       "summary": "Focused on biophysical research related to cell motility and viral infection impacts on cell dynamics.",
-      "highlights": [
-        "Developed specific assays for CD4+ T Cells.",
-        "Built custom image analysis algorithms."
-      ]
+      "highlights": ["Developed specific assays for CD4+ T Cells.", "Built custom image analysis algorithms."]
     },
     {
       "company": "Newell Rubbermaid",
@@ -54,9 +48,7 @@
       "startDate": "2014-02-01",
       "endDate": "2015-04-01",
       "summary": "Primary support for safety and heavy metal analysis, operating various testing equipment and enhancing SOPs.",
-      "highlights": [
-        "Enhanced testing procedures and automated basic tests."
-      ]
+      "highlights": ["Enhanced testing procedures and automated basic tests."]
     }
   ],
   "education": [
@@ -82,29 +74,17 @@
     {
       "name": "Laboratory Techniques",
       "level": "Advanced",
-      "keywords": [
-        "Cryogen Transfer",
-        "Machining",
-        "3D Modeling"
-      ]
+      "keywords": ["Cryogen Transfer", "Machining", "3D Modeling"]
     },
     {
       "name": "Programming",
       "level": "Competent",
-      "keywords": [
-        "Python",
-        "Mathematica",
-        "Matlab",
-        "LaTeX"
-      ]
+      "keywords": ["Python", "Mathematica", "Matlab", "LaTeX"]
     },
     {
       "name": "Design",
       "level": "Competent",
-      "keywords": [
-        "Fusion360",
-        "OnShape"
-      ]
+      "keywords": ["Fusion360", "OnShape"]
     }
   ],
   "languages": [
@@ -116,9 +96,7 @@
   "interests": [
     {
       "name": "Diving",
-      "keywords": [
-        "Scuba Diving - Open Water Certification"
-      ]
+      "keywords": ["Scuba Diving - Open Water Certification"]
     }
   ],
   "references": [
