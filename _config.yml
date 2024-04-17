@@ -6,7 +6,7 @@ title: Nick Reilly # the website title (if blank, full name will be used instead
 first_name: Nick
 middle_name: #
 last_name: Reilly
-email: spoon@sent.com
+email: nick_reilly_site@sent.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.  Don't mind the dust- this is a work in progress!
 footer_text: >
@@ -108,7 +108,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Good ol' email is probably the best way to get a hold of me!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
