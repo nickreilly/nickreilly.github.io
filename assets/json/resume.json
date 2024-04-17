@@ -75,6 +75,51 @@
       "courses": []
     }
   ],
+  "awards": [
+  {
+    "title": "Helmsley Fellowship",
+    "date": "2017--",
+    "awarder": "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY",
+    "summary": "Award to attend Quantitative Imaging and Analysis Course."
+  },
+  {
+    "title": "J. Robert & G. Overman Scholarship",
+    "date": "2013--",
+    "awarder": "Bowling Green State University, Bowling Green, OH",
+    "summary": "Outstanding Senior in Math or Physics"
+  },
+  {
+    "title": "Timothy F. Smith Scholarship‑Outstanding Greek Man of the Year",
+    "date": "2011--",
+    "awarder": "Bowling Green State University, Bowling Green, OH",
+    "summary": ""
+  },
+  {
+    "title": "Sidney A. Ribeau President’s Leadership Academy",
+    "date": "2009--",
+    "awarder": "Bowling Green State University, Bowling Green, OH",
+    "summary": "Four year leadership development scholarship"
+  },
+  {
+    "title": "Eagle Scout",
+    "date": "2005",
+    "awarder": "Boy Scouts of America, Troop 56, St. Charles, IL",
+    "summary": ""
+  }
+  ],
+  "volunteer": [
+  {
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+    }
+  ],
   "skills": [
     {
       "name": "Laboratory Techniques",
