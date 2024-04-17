@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>426 Bausch and Lomb</p>
+    <p>426 Bausch & Lomb Hall</p>
     <p>University of Rochester</p>
     <p>Rochester, NY 14607</p>
 
