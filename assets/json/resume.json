@@ -2,7 +2,7 @@
   "basics": {
     "name": "Nick Reilly",
     "label": "PhD Candidate - Physics and Astronomy",
-    "email": "nickreilly@fastmail.com",
+    "email": "nick_reilly_site@sent.com",
     "phone": "630-649-4133",
     "summary": "PhD candidate with extensive experience in physics and astronomy, specialized in infrared detectors for space astrophysics. Skilled in laboratory research, equipment maintenance, and data analysis.",
     "location": {
@@ -109,14 +109,15 @@
   ],
   "volunteer": [
   {
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
+    "organization": "Rochester Museum and Science Center",
+    "position": "Ask-It Volunteer",
+    "url": "https://rmsc.org/",
+    "startDate": "2021-02-28",
+    "endDate": "",
+    "summary": "Started as an Ask-it volunteer, answering questions and providing information to visitors, and then moved to presenting at the Science on a Sphere exhibit.",
     "highlights": [
-      "Awarded 'Volunteer of the Month'"
+      "Presented frequently at the After Dark events at the RMSC.",
+      "Developed a presentation to assist in the 'Climate Action Days' event at the RMSC for Middle School students."
     ]
     }
   ],
