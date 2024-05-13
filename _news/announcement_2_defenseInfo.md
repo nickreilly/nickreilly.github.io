@@ -7,6 +7,9 @@ related_posts: false
 
 This post will have information about Nick's defense (when it is finally scheduled!)
 
-![WHEN HE HAS A DATE!](/assets/img/FOP_meme.jpg)
+---
 
+You made it to the right place!  Just....One missing detail....
+
+![WHEN HE HAS A DATE!](/assets/img/FOP_meme.jpg)
 
