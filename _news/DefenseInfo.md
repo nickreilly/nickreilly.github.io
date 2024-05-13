@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-04-17 15:59:00-0400
+date: 2024-05-13 15:59:00-0400
 title: PhD. Defense Information!
 date: 2024-05-13 21:01:00
 description: A post with the information for Nick's upcoming defense
