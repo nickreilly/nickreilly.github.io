@@ -25,4 +25,4 @@ This post will have information about Nick's defense (when it is finally schedul
 
 
 
-![WHEN HE HAS A DATE!](FOP_meme.jpg)
+![WHEN HE HAS A DATE!](/_site/assets/img/FOP_meme.jpg)
