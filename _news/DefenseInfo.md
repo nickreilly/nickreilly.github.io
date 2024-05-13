@@ -25,7 +25,7 @@ Zoom information will be posted here, as well as details about the celebration (
 
 
 <li class="masthead__menu-item">
-    <a href="https://rochester.zoom.us/j/9978864071?pwd=QW9paEMzS1JpUlhxNTJXSDdlMTJNUT09">Nick's Personal Room</a>
+    <a href="https://rochester.zoom.us/my/nicksroom.ur">Nick's Personal Room</a>
 </li>
 
 and if you have trouble, let me know!
