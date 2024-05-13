@@ -23,3 +23,9 @@ He's working on it.  Maybe July 19th?
 
 Zoom information will be posted here, as well as details about the celebration (and even if you don't come to the defense, come celebrate!)
 
+
+<li class="masthead__menu-item">
+    <a href="https://rochester.zoom.us/j/9978864071?pwd=QW9paEMzS1JpUlhxNTJXSDdlMTJNUT09">Nick's Personal Room</a>
+</li>
+
+and if you have trouble, let me know!
