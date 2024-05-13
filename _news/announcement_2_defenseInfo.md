@@ -11,5 +11,5 @@ This post will have information about Nick's defense (when it is finally schedul
 
 You made it to the right place!  Just....One missing detail....
 
-![WHEN HE HAS A DATE!](/_site/assets/img/FOP_meme.jpg)
+![WHEN HE HAS A DATE!](FOP_meme.jpg)
 
