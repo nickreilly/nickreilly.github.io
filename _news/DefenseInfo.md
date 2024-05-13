@@ -29,3 +29,13 @@ Zoom information will be posted here, as well as details about the celebration (
 </li>
 
 and if you have trouble, let me know!
+
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/DefenseInfo_qr.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Here is a QR code to lead precisely to this page so that people can be sent here!
+</div>
