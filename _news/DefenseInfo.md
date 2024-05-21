@@ -23,8 +23,12 @@ He's working on it.  Maybe July 19th?
 
 Zoom information will be posted here, as well as details about the celebration (and even if you don't come to the defense, come celebrate!)
 
+If you would like to be alerted when it is scheduled, as well as a reminder the day before, leave some info:
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSflyaboX2GqwVf2-ptRBIveAktzaKW6wC7TxOKVLVeR3p1tqQ/viewform?embedded=true" width="640" height="741" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
+I won't spam ya, I promise.  
 
 
 <div class="row mt-3">
