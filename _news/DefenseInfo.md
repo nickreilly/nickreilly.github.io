@@ -16,7 +16,7 @@ You made it to the right place!  Just....One missing detail....
     </div>
 </div>
 <div class="caption">
-    WHY IS IT SO HARD TO SCHEDULE WITH FACULT?!
+    WHY IS IT SO HARD TO SCHEDULE WITH FACULTY?!
 </div>
 
 He's working on it.  
