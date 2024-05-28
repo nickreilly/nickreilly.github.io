@@ -19,7 +19,9 @@ You made it to the right place!  Just....One missing detail....
     WHY IS IT SO HARD TO SCHEDULE WITH FACULTY?!
 </div>
 
-He's working on it.  
+He's working on it.  Maybe July 30th?  
+
+Zoom information will be posted here, as well as details about the celebration (and even if you don't come to the defense, come celebrate!)
 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSflyaboX2GqwVf2-ptRBIveAktzaKW6wC7TxOKVLVeR3p1tqQ/viewform?embedded=true" width="640" height="841" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
