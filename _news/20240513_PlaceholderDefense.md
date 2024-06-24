@@ -1,18 +1,29 @@
 ---
 layout: post
 date: 2024-05-13 15:59:00-0400
-title: My defense information!
+title: Getting a placeholder page for my defense info!
 date: 2024-05-13 21:01:00
 description: A post with the information for Nick's upcoming defense
 inline: False
 related_posts: false
 ---
 
-July 30th at 1pm.  Bausch and Lomb Hall rm. 106.  I hope to see you there!  
+July 30th! It's happening! 
 
-I will update this page with Zoom information on the day of the defense.
+More details, including room and time information will be posted here, as well as details about the celebration (and even if you don't come to the defense, come celebrate!)
 
-Celebration to follow--details to come!
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/FOP_meme.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    WHY IS IT SO HARD TO SCHEDULE WITH FACULTY?!
+</div>
+
+(because this was funny, I'm keeping it here)
+
 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSflyaboX2GqwVf2-ptRBIveAktzaKW6wC7TxOKVLVeR3p1tqQ/viewform?embedded=true" width="640" height="841" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
