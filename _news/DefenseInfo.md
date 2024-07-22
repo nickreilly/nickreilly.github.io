@@ -15,9 +15,7 @@ Bausch and Lomb
 
 Once you're in the building, look for the signs for 106!  Talk to the parking booth at the Elmwood entrance to campus if you need parking. I think its ~$5 a day, or something like that.  I hope to see you there!  
 
-I will update this page with Zoom information on the day of the defense.
-
-Celebration to follow at the new Cheshire location on Gregory and Clinton, probably some time between 6 and 6:30.  I'm working on food, but probably will have Ethiopian.  If that isn't something you want, bring your own food (or we'll order pizza or something, too).
+Celebration to follow at the new Cheshire location on Gregory and Clinton, probably some time between 6 and 6:30.  I'm working on food, but probably will have a bunch of Ethiopian (and maybe a pizza or two).
 
 
 
