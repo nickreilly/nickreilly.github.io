@@ -1,66 +1,43 @@
 ---
 layout: post
-date: 2024-05-13 15:59:00-0400
+date: 2024-07-23 15:59:00-0400
 title: My defense information!
-date: 2024-05-13 21:01:00
+date: 2024-07-23 21:01:00
 description: A post with the information for Nick's upcoming defense
 inline: False
 related_posts: false
 ---
 
-July 30th at 1pm.  Bausch and Lomb Hall rm. 106.  I hope to see you there!  
+July 30th at 1pm.  Bausch and Lomb Hall rm. 106 on the River Campus:
+
+Bausch and Lomb
+500 Wilson Blvd, Rochester, NY 14611
+
+Once you're in the building, look for the signs for 106!  Talk to the parking booth at the Elmwood entrance to campus if you need parking. I think its ~$5 a day, or something like that.  I hope to see you there!  
 
 I will update this page with Zoom information on the day of the defense.
 
-Celebration to follow--details to come!
+Celebration to follow at the new Cheshire location on Gregory and Clinton, probably some time between 6 and 6:30.  I'm working on food, but probably will have Ethiopian.  If that isn't something you want, bring your own food (or we'll order pizza or something, too).
 
 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSflyaboX2GqwVf2-ptRBIveAktzaKW6wC7TxOKVLVeR3p1tqQ/viewform?embedded=true" width="640" height="841" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+Here is the Zoom invite:
 
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/DefenseInfo_qr.png" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Here is a QR code to lead precisely to this page so that people can be sent here!
-</div>
-
-
-
-<!--
-
-Personal Room::
-
-
-<li class="masthead__menu-item">
-    <a href="https://rochester.zoom.us/my/nicksroom.ur">Nick's Personal Room</a>
-</li>
-
-and if you have trouble, let me know!
-
-
-Defense Specific Room?
-
-
-Nick Reilly - UR is inviting you to a scheduled Zoom meeting.
-
-Topic: Nick's Defense
-Time: Jul 19, 2024 02:00 PM Eastern Time (US and Canada)
+Topic: Nick Reilly's PhD Defense
+Time: Jul 30, 2024 01:00 PM Eastern Time (US and Canada)
 
 Join Zoom Meeting
-https://rochester.zoom.us/j/99469179587?pwd=MzZkUHFlNEdMOVQzcWFqRzFPYjJHZz09
+https://rochester.zoom.us/j/99469179587?pwd=XcMtf5ofv049EpjjjTib6XetiQ8wsK.1
 
 Meeting ID: 994 6917 9587
-Passcode: 812491
+Passcode: defense
 
 ---
 
 One tap mobile
-+16469313860,,99469179587#,,,,*812491# US
-+16468769923,,99469179587#,,,,*812491# US (New York)
++16469313860,,99469179587#,,,,*1260119# US
++16468769923,,99469179587#,,,,*1260119# US (New York)
 
 ---
 
@@ -84,7 +61,7 @@ Dial by your location
 • +1 346 248 7799 US (Houston)
 
 Meeting ID: 994 6917 9587
-Passcode: 812491
+Passcode: 1260119
 
 Find your local number: https://rochester.zoom.us/u/abmgOQVwkM
 
@@ -106,15 +83,22 @@ Join by H.323
 • 103.122.167.55 (Australia Melbourne)
 • 149.137.40.110 (Singapore)
 • 64.211.144.160 (Brazil)
-• 149.137.68.253 (Mexico)
-• 69.174.57.160 (Canada Toronto)
+• 159.124.132.243 (Mexico)
+• 159.124.168.213 (Canada Toronto)
 • 65.39.152.160 (Canada Vancouver)
 • 207.226.132.110 (Japan Tokyo)
 • 149.137.24.110 (Japan Osaka)
 
 Meeting ID: 994 6917 9587
-Passcode: 812491
+Passcode: 1260119
 
 
 
--->
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/DefenseInfo_qr.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Here is a QR code to lead precisely to this page so that people can be sent here!
+</div>
