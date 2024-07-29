@@ -2,9 +2,8 @@
 layout: post
 date: 2024-07-23 15:59:00-0400
 title: My defense information!
-date: 2024-07-23 21:01:00
 description: A post with the information for Nick's upcoming defense
-inline: False
+inline: True
 related_posts: false
 ---
 
@@ -15,7 +14,7 @@ Bausch and Lomb
 
 Once you're in the building, look for the signs for 106!  Talk to the parking booth at the Elmwood entrance to campus if you need parking. I think its ~$5 a day, or something like that.  I hope to see you there!  
 
-Celebration to follow at the new Cheshire location on Gregory and Clinton, probably some time between 6 and 6:30.  I'm working on food, but probably will have a bunch of Ethiopian (and maybe a pizza or two).
+Celebration to follow at the new Cheshire location on Gregory and Clinton, probably around 6:30pm.  See you there!
 
 
 
