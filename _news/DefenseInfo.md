@@ -22,9 +22,9 @@ Here is the Zoom invite:<br/>
 Topic: Nick Reilly's PhD Defense <br/>
 Time: Jul 30, 2024 01:00 PM Eastern Time (US and Canada)<br/>
 
-Join Zoom Meeting\<br/>
+Join Zoom Meeting<br/>
 https://rochester.zoom.us/j/99469179587?pwd=XcMtf5ofv049EpjjjTib6XetiQ8wsK.1 <br/>
-\n
+
 Meeting ID: 994 6917 9587 <br/>
 Passcode: defense<br/>
 
