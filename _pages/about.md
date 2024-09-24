@@ -25,7 +25,7 @@ My research interests lie at the intersection of physics, astronomy, and how ima
 
 I've had the privilege of working alongside a talented group of researchers to push the boundaries of what is detectable using cutting edge infrared detectors searching for near-Earth objects. My work with NASA's Near-Earth Object Surveyor (NEOS) has been a highlight of my life.  
 
-There a few selected publications below, but you can find a full list of my publications [here](/al-folio/publications/).
+There a few selected publications below, but you can find a full list of my publications above.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

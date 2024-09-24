@@ -3,7 +3,7 @@ layout: post
 date: 2024-07-23 15:59:00-0400
 title: My defense information!
 description: A post with the information for Nick's upcoming defense
-inline: true
+inline: false
 related_posts: false
 ---
 
