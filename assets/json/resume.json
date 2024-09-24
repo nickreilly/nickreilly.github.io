@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Nick Reilly",
-    "label": "PhD Candidate - Physics and Astronomy",
+    "label": "Ph.D. in Physics",
     "email": "nick_reilly_site@sent.com",
     "phone": "On Request",
-    "summary": "PhD candidate with extensive experience in physics and astronomy, specialized in infrared detectors for space astrophysics. Skilled in laboratory research, equipment maintenance, and data analysis.",
+    "summary": "Fresh PhD with extensive experience in physics and astronomy, specialized in infrared detectors for space astrophysics. Skilled in laboratory research, equipment maintenance, and data analysis.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -28,9 +28,9 @@
   "work": [
     {
       "company": "University of Rochester",
-      "position": "Graduate Research Assistant",
-      "startDate": "2019-12-01",
-      "endDate": "present",
+      "position": "Graduate Research Assistant-Infrared Detectors for Space Astrophysics",
+      "startDate": "2019-12",
+      "endDate": "2024-08",
       "summary": "Research on infrared detectors for space astrophysics, including development of analysis pipelines, equipment installation, and maintenance.",
       "highlights": [
         "Developed analysis pipeline for NEO Surveyor calibration.",
@@ -38,9 +38,9 @@
     },
     {
       "company": "University of Rochester",
-      "position": "Graduate Research Assistant",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
+      "position": "Graduate Research Assistant-Cellular Biophysics",
+      "startDate": "2017-01",
+      "endDate": "2019-12",
       "summary": "Focused on biophysical research related to cell motility and viral infection impacts on cell dynamics.",
       "highlights": [
         "Developed specific assays for CD4+ T Cells.",
@@ -48,31 +48,79 @@
       ]
     },
     {
+      "company": "University of Rochester",
+      "position": "Graduate Research Assistant-Guo Lab",
+      "startDate": "2016-04",
+      "endDate": "2016-12",
+      "summary": "Used ultra short laser pulses to study the breakup of nitrogen molecules.",
+      "highlights": [
+        "Collaborated in the design process for a new clean room facility in China.",
+        "Supported other students and postdocs on surface experiments, including hydrophobic and hydrophilic metals and plastics without coatings."
+      ]
+    },
+    {
+      "company": "University of Rochester",
+      "position": "Teaching Assistant",
+      "startDate": "2015-08",
+      "endDate": "2016-05",
+      "summary": "Lead workshops, graded, and maintained office hours for undergraduate mechanics for non‑physics majors.",
+    },
+    {
       "company": "Newell Rubbermaid",
       "position": "Laboratory Technician",
-      "startDate": "2014-02-01",
-      "endDate": "2015-04-01",
+      "startDate": "2014-02",
+      "endDate": "2015-04",
       "summary": "Primary support for safety and heavy metal analysis, operating various testing equipment and enhancing SOPs.",
       "highlights": ["Enhanced testing procedures and automated basic tests."]
+    },
+    {
+      "company": "Bowling Green State University",
+      "position": "Undergraduate Research Assistant-Sun Lab",
+      "startDate": "2010-01",
+      "endDate": "2013-12",
+      "summary": "Created the (then) current smallest Lead-Sulfide quantum dots using cheap wet lab chemistry methods.",
+      "highlights": ["Assisted construction of the Sun lab, calibrating optical equipment, electromagnets, and a chemical synthesis bench for nanostructure production.",
+      "Participated in the production of Lead Sulfide nanosheet synthesis, and their characterization.",
+      "Developed a procedure for a dip coating machine that efficiently made thin films of quantum dots and nanosheets."
+    ]
+    },
+    {
+      "company": "ASL Audio",
+      "position": "Audio Engineer",
+      "startDate": "2011-05",
+      "endDate": "2013-12",
+      "summary": "Responsible for building and running audio equipment for live events.",
+      "highlights": ["Assembled PA systems for all sized events, including events through Bowling Green State University, town festivals, sporting events, and philanthropic events",
+      "Ran the board for many different types of production events.",
+      "Experienced as an artist for a large campus event."
+    ]
     }
   ],
   "education": [
     {
       "institution": "University of Rochester",
       "area": "Physics and Astronomy",
-      "studyType": "PhD",
-      "startDate": "2015-01-01",
-      "endDate": "2024-07-01",
-      "gpa": ""
+      "studyType": "Ph.D.",
+      "startDate": "2015-05",
+      "endDate": "2024-07",
+      // "gpa": ""
+    },
+    {
+      "institution": "University of Rochester",
+      "area": "Physics and Astronomy",
+      "studyType": "M.A.",
+      "startDate": "2015-08",
+      "endDate": "2016-05",
+      // "gpa": ""
     },
     {
       "institution": "Bowling Green State University",
       "area": "Physics",
       "studyType": "Bachelor of Science",
-      "startDate": "2009-01-01",
-      "endDate": "2013-12-31",
-      "gpa": "",
-      "courses": []
+      "startDate": "2009-01",
+      "endDate": "2013-12",
+      // "gpa": "",
+      // "courses": []
     }
   ],
   "awards": [
@@ -112,8 +160,8 @@
     "organization": "Rochester Museum and Science Center",
     "position": "Ask-It Volunteer",
     "url": "https://rmsc.org/",
-    "startDate": "2021-02-28",
-    "endDate": "",
+    "startDate": "2021-02",
+    "endDate": "2024-08",
     "summary": "Started as an Ask-it volunteer, answering questions and providing information to visitors, and then moved to presenting at the Science on a Sphere exhibit.",
     "highlights": [
       "Presented frequently at the After Dark events at the RMSC.",
@@ -125,17 +173,22 @@
     {
       "name": "Laboratory Techniques",
       "level": "Advanced",
-      "keywords": ["Cryogen Transfer", "Machining", "3D Modeling"]
+      "keywords": ["Cryogen transfer", "optical equipment calibration", "cell culture", "wet lab chemistry", "microscopy", "basic electronics"]
+    },
+    {
+      "name": "Data Processing",
+      "level": "Advanced",
+      "keywords": ["Large image sequences from IR detectors and fluorescent, conforcal, and TIRF microscopes", "multiprocessing"]
     },
     {
       "name": "Programming",
       "level": "Competent",
-      "keywords": ["Python", "Mathematica", "Matlab", "LaTeX"]
+      "keywords": ["Python", "Mathematica", "Matlab", "LaTeX", "Some C++"]
     },
     {
-      "name": "Design",
+      "name": "Design and Fabrication",
       "level": "Competent",
-      "keywords": ["Fusion360", "OnShape"]
+      "keywords": ["Fusion360", "OnShape", "Light machining (Mill/Lathe)", "3D Printing"]
     }
   ],
   "languages": [
@@ -153,6 +206,7 @@
   "references": [
     {
       "name": "Upon Request- email me!",
+      "url": "mailto:jref_request@spoon.mozmail.com",
       "reference": ""
     }
   ]
