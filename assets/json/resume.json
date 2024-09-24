@@ -103,7 +103,6 @@
       "studyType": "Ph.D.",
       "startDate": "2015-05",
       "endDate": "2024-07",
-      // "gpa": ""
     },
     {
       "institution": "University of Rochester",
@@ -111,7 +110,6 @@
       "studyType": "M.A.",
       "startDate": "2015-08",
       "endDate": "2016-05",
-      // "gpa": ""
     },
     {
       "institution": "Bowling Green State University",
@@ -119,8 +117,6 @@
       "studyType": "Bachelor of Science",
       "startDate": "2009-01",
       "endDate": "2013-12",
-      // "gpa": "",
-      // "courses": []
     }
   ],
   "awards": [
@@ -197,16 +193,9 @@
       "fluency": "Native speaker"
     }
   ],
-  // "interests": [
-  //   {
-  //     "name": "Diving",
-  //     "keywords": ["Scuba Diving - Open Water Certification"]
-  //   }
-  // ],
   "references": [
     {
-      "name": "Upon Request- email me @ ref_request@spoon.mozmail.com",
-      // "url": "mailto:ref_request@spoon.mozmail.com",
+      "name": "Upon Request",
       "reference": ""
     }
   ]
