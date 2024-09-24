@@ -197,16 +197,16 @@
       "fluency": "Native speaker"
     }
   ],
-  "interests": [
-    {
-      "name": "Diving",
-      "keywords": ["Scuba Diving - Open Water Certification"]
-    }
-  ],
+  // "interests": [
+  //   {
+  //     "name": "Diving",
+  //     "keywords": ["Scuba Diving - Open Water Certification"]
+  //   }
+  // ],
   "references": [
     {
-      "name": "Upon Request- email me!",
-      "url": "mailto:jref_request@spoon.mozmail.com",
+      "name": "Upon Request- email me @ ref_request@spoon.mozmail.com",
+      // "url": "mailto:ref_request@spoon.mozmail.com",
       "reference": ""
     }
   ]
