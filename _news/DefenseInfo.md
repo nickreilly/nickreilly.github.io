@@ -7,17 +7,16 @@ inline: false
 related_posts: false
 ---
 
-July 30th at 1pm.  Bausch and Lomb Hall rm. 106 on the River Campus: <br/>
+July 30th at 1pm. Bausch and Lomb Hall rm. 106 on the River Campus: <br/>
 
 Bausch and Lomb <br/>
 500 Wilson Blvd, Rochester, NY 14611 <br/>
 
-Once you're in the building, look for the signs for 106!  Talk to the parking booth at the Elmwood entrance to campus if you need parking. I think its ~$5 a day, or something like that.  <br/>
+Once you're in the building, look for the signs for 106! Talk to the parking booth at the Elmwood entrance to campus if you need parking. I think its ~$5 a day, or something like that.<br/>
 
-Celebration to follow at the new Cheshire location on Gregory and Clinton, probably around 6:30pm.  See you there! <br/>
+Celebration to follow at the new Cheshire location on Gregory and Clinton, probably around 6:30pm. See you there!<br/>
 
 Here is the Zoom invite:<br/>
-
 
 Topic: Nick Reilly's PhD Defense <br/>
 Time: Jul 30, 2024 01:00 PM Eastern Time (US and Canada)<br/>

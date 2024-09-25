@@ -34,7 +34,8 @@
       "summary": "Research on infrared detectors for space astrophysics, including development of analysis pipelines, equipment installation, and maintenance.",
       "highlights": [
         "Developed analysis pipeline for NEO Surveyor calibration.",
-        "Installed and maintained advanced detector systems in cryogenic conditions."]
+        "Installed and maintained advanced detector systems in cryogenic conditions."
+      ]
     },
     {
       "company": "University of Rochester",
@@ -43,8 +44,7 @@
       "endDate": "2019-12",
       "summary": "Focused on biophysical research related to cell motility and viral infection impacts on cell dynamics.",
       "highlights": [
-        "Developed specific assays for CD4+ T Cells.",
-        "Built custom image analysis algorithms."
+        "Developed specific assays for CD4+ T Cells.", "Built custom image analysis algorithms."
       ]
     },
     {
@@ -79,9 +79,10 @@
       "startDate": "2010-01",
       "endDate": "2013-12",
       "summary": "Created the (then) current smallest Lead-Sulfide quantum dots using cheap wet lab chemistry methods.",
-      "highlights": ["Assisted construction of the Sun lab, calibrating optical equipment, electromagnets, and a chemical synthesis bench for nanostructure production.",
-      "Participated in the production of Lead Sulfide nanosheet synthesis, and their characterization.",
-      "Developed a procedure for a dip coating machine that efficiently made thin films of quantum dots and nanosheets."
+      "highlights": [
+        "Assisted construction of the Sun lab, calibrating optical equipment, electromagnets, and a chemical synthesis bench for nanostructure production.",
+        "Participated in the production of Lead Sulfide nanosheet synthesis, and their characterization.",
+        "Developed a procedure for a dip coating machine that efficiently made thin films of quantum dots and nanosheets."
     ]
     },
     {
@@ -90,9 +91,10 @@
       "startDate": "2011-05",
       "endDate": "2013-12",
       "summary": "Responsible for building and running audio equipment for live events.",
-      "highlights": ["Assembled PA systems for all sized events, including events through Bowling Green State University, town festivals, sporting events, and philanthropic events",
-      "Ran the board for many different types of production events.",
-      "Experienced as an artist for a large campus event."
+      "highlights": [
+        "Assembled PA systems for all sized events, including events through Bowling Green State University, town festivals, sporting events, and philanthropic events",
+        "Ran the board for many different types of production events.",
+        "Experienced as an artist for a large campus event."
     ]
     }
   ],
@@ -120,36 +122,36 @@
     }
   ],
   "awards": [
-  {
-    "title": "Helmsley Fellowship",
-    "date": "2017--",
-    "awarder": "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY",
-    "summary": "Award to attend Quantitative Imaging and Analysis Course."
-  },
-  {
-    "title": "J. Robert & G. Overman Scholarship",
-    "date": "2013--",
-    "awarder": "Bowling Green State University, Bowling Green, OH",
-    "summary": "Outstanding Senior in Math or Physics"
-  },
-  {
-    "title": "Timothy F. Smith Scholarship‑Outstanding Greek Man of the Year",
-    "date": "2011--",
-    "awarder": "Bowling Green State University, Bowling Green, OH",
-    "summary": ""
-  },
-  {
-    "title": "Sidney A. Ribeau President’s Leadership Academy",
-    "date": "2009--",
-    "awarder": "Bowling Green State University, Bowling Green, OH",
-    "summary": "Four year leadership development scholarship"
-  },
-  {
-    "title": "Eagle Scout",
-    "date": "2005",
-    "awarder": "Boy Scouts of America, Troop 56, St. Charles, IL",
-    "summary": ""
-  }
+    {
+      "title": "Helmsley Fellowship",
+      "date": "2017--",
+      "awarder": "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY",
+      "summary": "Award to attend Quantitative Imaging and Analysis Course."
+    },
+    {
+      "title": "J. Robert & G. Overman Scholarship",
+      "date": "2013--",
+      "awarder": "Bowling Green State University, Bowling Green, OH",
+      "summary": "Outstanding Senior in Math or Physics"
+    },
+    {
+      "title": "Timothy F. Smith Scholarship‑Outstanding Greek Man of the Year",
+      "date": "2011--",
+      "awarder": "Bowling Green State University, Bowling Green, OH",
+      "summary": ""
+    },
+    {
+      "title": "Sidney A. Ribeau President’s Leadership Academy",
+      "date": "2009--",
+      "awarder": "Bowling Green State University, Bowling Green, OH",
+      "summary": "Four year leadership development scholarship"
+    },
+    {
+      "title": "Eagle Scout",
+      "date": "2005",
+      "awarder": "Boy Scouts of America, Troop 56, St. Charles, IL",
+      "summary": ""
+    }
   ],
   "volunteer": [
   {
