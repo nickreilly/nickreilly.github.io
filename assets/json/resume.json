@@ -43,9 +43,7 @@
       "startDate": "2017-01",
       "endDate": "2019-12",
       "summary": "Focused on biophysical research related to cell motility and viral infection impacts on cell dynamics.",
-      "highlights": [
-        "Developed specific assays for CD4+ T Cells.", "Built custom image analysis algorithms."
-      ]
+      "highlights": ["Developed specific assays for CD4+ T Cells.", "Built custom image analysis algorithms."]
     },
     {
       "company": "University of Rochester",
@@ -83,7 +81,7 @@
         "Assisted construction of the Sun lab, calibrating optical equipment, electromagnets, and a chemical synthesis bench for nanostructure production.",
         "Participated in the production of Lead Sulfide nanosheet synthesis, and their characterization.",
         "Developed a procedure for a dip coating machine that efficiently made thin films of quantum dots and nanosheets."
-    ]
+      ]
     },
     {
       "company": "ASL Audio",
@@ -154,18 +152,18 @@
     }
   ],
   "volunteer": [
-  {
-    "organization": "Rochester Museum and Science Center",
-    "position": "Ask-It Volunteer",
-    "url": "https://rmsc.org/",
-    "startDate": "2021-02",
-    "endDate": "2024-08",
-    "summary": "Started as an Ask-it volunteer, answering questions and providing information to visitors, and then moved to presenting at the Science on a Sphere exhibit.",
-    "highlights": [
-      "Presented frequently at the After Dark events at the RMSC.",
-      "Developed a presentation to assist in the 'Climate Action Days' event at the RMSC for Middle School students."
-    ]
-    }
+    {
+      "organization": "Rochester Museum and Science Center",
+      "position": "Ask-It Volunteer",
+      "url": "https://rmsc.org/",
+      "startDate": "2021-02",
+      "endDate": "2024-08",
+      "summary": "Started as an Ask-it volunteer, answering questions and providing information to visitors, and then moved to presenting at the Science on a Sphere exhibit.",
+      "highlights": [
+        "Presented frequently at the After Dark events at the RMSC.",
+        "Developed a presentation to assist in the 'Climate Action Days' event at the RMSC for Middle School students."
+      ]
+      }
   ],
   "skills": [
     {

@@ -26,4 +26,3 @@ https://rochester.zoom.us/j/99469179587?pwd=XcMtf5ofv049EpjjjTib6XetiQ8wsK.1 <br
 
 Meeting ID: 994 6917 9587 <br/>
 Passcode: defense<br/>
-

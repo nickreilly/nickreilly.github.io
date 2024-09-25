@@ -14,9 +14,9 @@ Nick Reilly - UR is inviting you to a scheduled Zoom meeting.
 
 Topic: Nick's Practice Defense
 Time: Jul 16, 2024 01:00 PM Eastern Time (US and Canada)
-  Every week on Tue, 2 occurrence(s)
-  Jul 16, 2024 01:00 PM
-  Jul 23, 2024 01:00 PM
+Every week on Tue, 2 occurrence(s)
+Jul 16, 2024 01:00 PM
+Jul 23, 2024 01:00 PM
 Please download and import the following iCalendar (.ics) files to your calendar system.
 Weekly: https://rochester.zoom.us/meeting/tJEscuGvrT8rGtabCinWa561HN6JQ89u3SY3/ics?icsToken=98tyKuCtrz4iHdeRsRmFRowMBY_4We3ztilcjbdcnjzsDRdSN1WnHswUGIMnSc2D
 

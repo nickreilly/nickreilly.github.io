@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD. Candidate. University of Rochester.  Department of Physics and Astronomy 
+subtitle: PhD. Candidate. University of Rochester.  Department of Physics and Astronomy
 
 profile:
   align: right
