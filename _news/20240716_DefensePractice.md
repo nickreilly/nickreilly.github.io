@@ -8,7 +8,7 @@ inline: False
 related_posts: false
 ---
 
-I appreciate you all!  
+I appreciate you all!
 
 Nick Reilly - UR is inviting you to a scheduled Zoom meeting.
 
