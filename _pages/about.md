@@ -2,23 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD. Candidate. University of Rochester.  Department of Physics and Astronomy
+subtitle: PhD. Candidate. University of Rochester.  Department of Physics and Astronomy #<a href='#'>Affiliations</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>426 Bausch & Lomb Hall</p>
+    <p>University of Rochester</p>
+    <p>Rochester, NY 14607</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My research interests lie at the intersection of physics, astronomy, and how imaging can help us understand the universe.
+Pardon the dust- this is a work in progress!
 
-I've had the privilege of working alongside a talented group of researchers to push the boundaries of what is detectable using cutting edge infrared detectors searching for near-Earth objects. My work with NASA's Near-Earth Object Surveyor (NEOS) has been a highlight of my life.
-
-There a few selected publications below, but you can find a full list of my publications above.
+I will add more here when I have a moment. My mostly up to date CV (PDF) is up top though, with the parsed version a bit behind- let me know what you think!
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
