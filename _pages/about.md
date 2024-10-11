@@ -9,14 +9,14 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Currently in Seattle, WA</p>
+    <p>Currently: Seattle, WA</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Nick Reilly. As a space enthusiast with a passion for detector design and image analysis, I've spent years making measurements using the detectors that will find 90\% of the near-Earth objects.
+Hi, I'm Nick Reilly. As a space enthusiast with a passion for detector design and image analysis, I've spent years making measurements using the detectors that will find 90% of the near-Earth objects.
 
 My research on the precision calibration and image quality analysis of mid-wave infrared (MWIR) detectors has taken me from the University of Rochester to the world of space mission design. 
 
