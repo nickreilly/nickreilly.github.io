@@ -2,25 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD. Candidate. University of Rochester.  Department of Physics and Astronomy #<a href='#'>Affiliations</a>.
+subtitle: Ph.D. University of Rochester.  Department of Physics and Astronomy #<a href='#'>Affiliations</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>426 Bausch & Lomb Hall</p>
-    <p>University of Rochester</p>
-    <p>Rochester, NY 14607</p>
+    <p>Currently in Seattle, WA</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Pardon the dust- this is a work in progress!
+Hi, I'm Nick Reilly. As a space enthusiast with a passion for detector design and image analysis, I've spent years making measurements using the detectors that will find 90\% of the near-Earth objects.
 
-I will add more here when I have a moment. My mostly up to date CV (PDF) is up top though, with the parsed version a bit behind- let me know what you think!
+My research on the precision calibration and image quality analysis of mid-wave infrared (MWIR) detectors has taken me from the University of Rochester to the world of space mission design. 
+
+I've also had the privilege of working on some of the most exciting interdisciplinary projects, from nuclear and plasma physics, to biophysics as well.  Imaging is a powerful tool to understand how the world works!
+
+From designing detector calibration algorithms to analyzing vast datasets, I'm driven by a curiosity about how humans can better understand our place in the universe. My expertise lies at the intersection of infrared detectors, material science, and computational analysis – but my enthusiasm for science is universal!
+
+I have really enjoyed working with the Rochester Museum and Science Center to expand the Science on a Sphere exhibit, and am always looking for new ways to engage with the public about the wonders of the universe.  Whether it was teaching middle school students about the planets, or talking to adults about the search for life, I love sharing my passion for science with others.
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
